@@ -4,7 +4,7 @@
 int main()
 {
 
-    std::cout << "Hello World!\n";
+    	std::cout << "Hello World!\n";
 	LPCWSTR outputFile = L"C:\\Users\\John\\Desktop\\JUSTIN_TESTING.txt";
 	HANDLE hEvent, hFile, hCreateFile;
 	DWORD dwBytesWritten, dwBytesToWrite;
